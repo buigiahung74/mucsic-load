@@ -26,8 +26,8 @@ import subprocess
 from datetime import datetime
 import tkinter as tk
 
-SERVER_HOST = "217.154.161.167"
-SERVER_PORT = 9536
+SERVER_HOST = "85.215.159.4"
+SERVER_PORT = 12214
 
 sock = None
 CLIENT_ID = None
